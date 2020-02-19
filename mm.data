@@ -1,0 +1,5 @@
+classes= 8
+train = train.txt
+valid = val.txt
+names =mm.names
+backup = backup
