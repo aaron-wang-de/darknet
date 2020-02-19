@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpg2</folder>
+	<filename>00381.jpg</filename>
+	<path>H:\p52\jpg2\00381.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheel loader</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>258</ymin>
+			<xmax>1280</xmax>
+			<ymax>690</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1761</xmin>
+			<ymin>4</ymin>
+			<xmax>1894</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

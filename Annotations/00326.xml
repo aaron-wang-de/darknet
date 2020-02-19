@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg2</folder>
+	<filename>00326.jpg</filename>
+	<path>H:\p52\jpg2\00326.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>6</ymin>
+			<xmax>948</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>

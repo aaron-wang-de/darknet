@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg2</folder>
+	<filename>00426.jpg</filename>
+	<path>H:\p52\jpg2\00426.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheel loader</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>203</ymin>
+			<xmax>1693</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+</annotation>

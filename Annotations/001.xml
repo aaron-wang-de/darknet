@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>001.jpg</filename>
+	<path>H:\p52\jpg\001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheel loader</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>88</ymin>
+			<xmax>1747</xmax>
+			<ymax>953</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>200</ymin>
+			<xmax>623</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

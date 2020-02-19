@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg2</folder>
+	<filename>00370.jpg</filename>
+	<path>H:\p52\jpg2\00370.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulldozer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>525</xmin>
+			<ymin>408</ymin>
+			<xmax>983</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>
