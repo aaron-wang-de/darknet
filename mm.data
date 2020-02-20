@@ -1,5 +1,6 @@
-classes= 8
-train = train.txt
-valid = val.txt
-names =mm.names
-backup = backup
+classes= 7
+train  =S:\yolo-gpu\darknet-master\build\darknet\x64\mm\VOC_MM\train.txt
+valid  = S:\yolo-gpu\darknet-master\build\darknet\x64\mm\VOC_MM\val.txt
+names = S:\yolo-gpu\darknet-master\build\darknet\x64\mm\mm.names
+backup = S:\yolo-gpu\darknet-master\build\darknet\x64\mm\backup
+
