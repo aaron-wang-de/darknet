@@ -1,7 +1,7 @@
 <annotation>
 	<folder>jpg</folder>
 	<filename>00158.jpg</filename>
-	<path>E:\p52\jpg\00158.jpg</path>
+	<path>S:\Datasets\jpg\00158.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,18 +57,6 @@
 			<ymin>486</ymin>
 			<xmax>1186</xmax>
 			<ymax>576</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>road roller</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>77</xmin>
-			<ymin>337</ymin>
-			<xmax>282</xmax>
-			<ymax>509</ymax>
 		</bndbox>
 	</object>
 </annotation>
